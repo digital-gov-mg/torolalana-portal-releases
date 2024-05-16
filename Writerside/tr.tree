@@ -3,7 +3,8 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="tr"
-                 name="Torolalana Roadmap" start-page="README.md">
+                  name="Torolalana Roadmap" start-page="release-notes.md">
 
-    <toc-element topic="README.md"/>
+    <toc-element topic="release-notes.md"/>
+    <toc-element topic="roadmap.md"/>
 </instance-profile>
